@@ -34,7 +34,7 @@ public class Servlet1 extends HttpServlet {
 		String ced = request.getParameter("ced");
 		PrintWriter writer = response.getWriter();
 		if( name != null && ced != null) {
-			writer.println("Bienvenido "+ name +" a este primer JSP con Servlet");
+			writer.println("Bienvenido "+ name +" a este primer JSP con Servlet en Github");
 		}
 		else
 			writer.println("Error: Nombre o Cédula faltante!");
