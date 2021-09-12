@@ -20,7 +20,7 @@ Teclee su nombre:&nbsp;</label></td>
 size="20" maxlength="50" />
 </td></tr>
 <tr><td><label>
-Teclee su cédula:&nbsp;</label></td>
+Teclee su Cédula:&nbsp;</label></td>
 <td>
 <input type="text" name="ced" id="ced"
 size="20" maxlength="50" />
